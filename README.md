@@ -2,4 +2,4 @@
 
 Below is screenshoot simple websocket
 
-![alt text](https://github.com/yprawirocode/nodejs-lyrid-prima-indonesia/blob/main/pic/Endpoint_reg_user_success.png?raw=true)
+![alt text](https://github.com/YPrawiroCode/Get-start-websocket-nodejs/blob/v1/pic/view_in_html.png?raw=true)
